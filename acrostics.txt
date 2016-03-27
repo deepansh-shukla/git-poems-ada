@@ -19,8 +19,6 @@ Curious
 Entertaining
 
 
-
-
 ___ Programming ___
 
 "Javascript"
@@ -60,3 +58,14 @@ Leaping
 Ebullient
 Agonizing
 
+
+"Cheshire"
+
+Cat
+Holy-cow
+Esquire
+Smiling
+Hiding
+Iridescent
+Ridiculous
+Erudite
