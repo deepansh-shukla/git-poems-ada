@@ -99,3 +99,10 @@ E
 L
 L
 A
+
+"DATE"
+
+DAY
+AND
+TIME
+EVOLUTION
